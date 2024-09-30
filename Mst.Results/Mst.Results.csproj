@@ -11,7 +11,7 @@
     <Copyright>2024</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://mehransattary.ir/</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/mehransattari/MstResult</RepositoryUrl>
     <Description>Mehran Sattari Framework</Description>
     <PackageTags>Results</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
