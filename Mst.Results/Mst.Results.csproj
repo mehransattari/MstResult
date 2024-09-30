@@ -16,11 +16,18 @@
     <PackageTags>Results</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <!--<PackageIcon>DTAT03.png</PackageIcon>-->
+    <PackageIcon>Mst.png</PackageIcon>
     <PackageIconUrl />
     <PackageReleaseNotes>Use Results</PackageReleaseNotes>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Update="Mst.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+  
   <ItemGroup>
     <PackageReference Include="MST" Version="1.0.0" />
     <PackageReference Include="FluentResults" Version="3.16.0" />
